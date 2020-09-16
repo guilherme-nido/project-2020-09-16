@@ -1,2 +1,2 @@
 <?php
-echo "New PHP file";
+echo "Home Page";
